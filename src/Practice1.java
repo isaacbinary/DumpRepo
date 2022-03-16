@@ -13,6 +13,7 @@ public class Practice1 {
 		String str1 = "Payments $100 paid";
 		System.out.println(str1.indexOf("$"));
 		System.out.println(str1.substring(9));
+		System.out.println("push to develop and then to master");
 		
 
 	}
